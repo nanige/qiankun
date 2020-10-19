@@ -16,6 +16,7 @@
     "webpack-merge": "^4.2.2"
   },
   "dependencies": {
+    "ant-design-vue": "^1.6.5",
     "loadjs": "^4.2.0"
   }
 }
